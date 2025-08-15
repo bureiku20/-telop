@@ -1,0 +1,9 @@
+[ENGLISH]
+This tool analyzes user-provided images to infer caption styles. Designs from third parties may be protected by copyright or trademark. Use only with permission. No third-party assets are included. Fonts are not embedded in exported templates.
+
+Do not use this application to recreate or distribute third-party designs without authorization. Such use may infringe rights and violate applicable laws. This software is provided “AS IS” without warranties of any kind. The authors assume no liability for misuse.
+
+[JAPANESE / 日本語]
+本ツールは、ユーザーが提供した画像を解析してテロップのスタイルを推定します。第三者のデザインは、著作権や商標権によって保護されている場合があります。必ず許可を得て使用してください。本アプリには第三者の素材は含まれていません。書き出されるテンプレートにはフォントは埋め込まれません。
+
+許可なく第三者デザインを再現・配布しないでください。このような行為は権利侵害や法令違反となる可能性があります。本ソフトウェアは「現状のまま」提供され、いかなる保証もありません。開発者は不正使用に関して一切の責任を負いません。
